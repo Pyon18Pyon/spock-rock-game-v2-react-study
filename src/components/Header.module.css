@@ -1,0 +1,14 @@
+.header {
+  background: rgb(241, 31, 136);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-size: 30px;
+}
